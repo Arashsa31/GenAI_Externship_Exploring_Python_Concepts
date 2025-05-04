@@ -1,0 +1,1 @@
+This assignment covers variables, arithmetic operations, and conditional statements in Python. You'll create variables, perform basic math, and write a program to check if a number is positive, negative, or zero. Submit your project by hosting it on GitHub and sharing the repository link.
